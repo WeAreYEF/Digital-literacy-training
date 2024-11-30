@@ -90,9 +90,11 @@ The gallery below highlights interactive sessions, hands-on training, and group 
 
 ## Credits
 
-This program is implemented by the **Youth Empowerment Foundation (YEF)** in Pagirinya Refugee Settlement, with support from community stakeholders and technology partners.
-Certainly! Here's a detailed **Two-Week Training Plan** for the **Digital Literacy Training Program** with daily work included:
-
----
+This OER is a template created by the Youth Empowerment Foundation Under the ASKnet project (Mentor Her) that aims to empower women with different skills to make them self relient and exposed to the world of technology. The training was facilitated by [Lokuju Morish](https://www.facebook.com/search/top?q=maurice%20lokuju%20dario )
+This training was implemented by Youth Empowerment Foundation in collaboration with Creative Innovative Center (CIC). This project is supported by r0g agency Germany.
+This documentation was done by 
+[Amoko Joseph](https://lead.asknet.community/profiles/Amoko-Joseph/)
+[Vuga William](https://lead.asknet.community/profiles/Vuga-William/)
+[Lokuju Morish](https://www.facebook.com/search/top?q=maurice%20lokuju%20dario )
 
 
