@@ -23,7 +23,7 @@ By the end of this training, participants will be able to:
 7. [Recommendations](README.md#recommendations)
 8. [Gallery](digital_materials/photo_gallery.md)
 9. [Digital Literacy Resources](Digital_Literacy_Resources.md)
-10. [Gallery](digital_materials/photo_gallery.md)
+10. [Guide to Introduction to Email](Introduction%20to%20Email.md)
 
 ## Introduction
 
